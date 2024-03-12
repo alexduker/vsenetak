@@ -22,6 +22,9 @@ def main() -> None:
 
     # Get the dispatcher to register handlers
     dispatcher = updater.dispatcher
+    vyhggbigibu
+    obbboijb
+    ivuibuoouvu
 
     # Define handlers
     dispatcher.add_handler(CommandHandler("start", start))
